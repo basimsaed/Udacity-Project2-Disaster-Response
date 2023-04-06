@@ -72,6 +72,7 @@ run.py: This file can be used to launch the Flask web app used to classify disas
 
 
 <h4>Screenshots</h4>
-
+<h6> the fllowing screanshot is for clean,proccing data and store in Sql database
+<img width="799" alt="process_data_code" src="https://user-images.githubusercontent.com/62621380/230484194-5d5bdebe-5e5a-4910-a9ec-6f9b496e3032.PNG">
 
 
