@@ -78,3 +78,7 @@ run.py: This file can be used to launch the Flask web app used to classify disas
 
 <h6> Next screenshot is for classifier and tranning modle </h6>
 <img width="702" alt="train_classifier_code" src="https://user-images.githubusercontent.com/62621380/230484844-725e23a4-5526-4dea-b0ad-015dfc13a855.PNG">
+
+
+<h6> Final screenshot to start web app </h6>
+<img width="465" alt="runing web app" src="https://user-images.githubusercontent.com/62621380/230485173-04ad9c28-2b48-4b66-a6ee-3d3c4d2a9faa.PNG">
