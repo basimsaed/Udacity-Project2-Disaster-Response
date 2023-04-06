@@ -82,3 +82,10 @@ run.py: This file can be used to launch the Flask web app used to classify disas
 
 <h6> Final screenshot to start web app </h6>
 <img width="465" alt="runing web app" src="https://user-images.githubusercontent.com/62621380/230485173-04ad9c28-2b48-4b66-a6ee-3d3c4d2a9faa.PNG">
+
+
+<h6>These screenshots are from the web app</h6>
+<img width="1004" alt="app_1" src="https://user-images.githubusercontent.com/62621380/230476171-6ef75049-8284-4dd5-9cc2-7d3ae38041d1.PNG">
+<img width="1027" alt="app 2" src="https://user-images.githubusercontent.com/62621380/230485441-581f41ff-44b8-4a6f-804b-712a34ff43f9.PNG">
+<img width="868" alt="app 3" src="https://user-images.githubusercontent.com/62621380/230485455-74b7bc80-dd30-48cb-99b7-a90993a0396f.PNG">
+
