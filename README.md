@@ -77,7 +77,21 @@ run.py: This file can be used to launch the Flask web app used to classify disas
 
 
 <h6> Next screenshot is for classifier and tranning modle </h6>
-<img width="702" alt="train_classifier_code" src="https://user-images.githubusercontent.com/62621380/230484844-725e23a4-5526-4dea-b0ad-015dfc13a855.PNG">
+<img width="700" alt="train_classifier_code_1" src="https://user-images.githubusercontent.com/62621380/230765565-674ae2d1-8b47-4556-bdf7-b53668470bce.PNG">
+
+
+<img width="610" alt="train_classifier_code_2" src="https://user-images.githubusercontent.com/62621380/230765581-9c4858e2-1055-4156-a164-d1d8159a8c3c.PNG">
+
+
+<img width="615" alt="train_classifier_code_3" src="https://user-images.githubusercontent.com/62621380/230765595-2909f0d8-1fea-49ba-ad3b-386e56ff93d2.PNG">
+
+
+<img width="667" alt="train_classifier_code_4" src="https://user-images.githubusercontent.com/62621380/230765607-21d26a2a-ec40-4f4f-b0de-02be2a148872.PNG">
+
+
+<img width="639" alt="train_classifier_code_5" src="https://user-images.githubusercontent.com/62621380/230765616-2738d486-5a12-4de3-a6dd-687c9add0ec4.PNG">
+
+You can view more in folder models under the name : train classifier
 
 
 <h6> Final screenshot to start web app </h6>
