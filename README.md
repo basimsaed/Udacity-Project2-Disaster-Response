@@ -103,3 +103,12 @@ You can view more in folder models under the name : train classifier
 <img width="1027" alt="app 2" src="https://user-images.githubusercontent.com/62621380/230485441-581f41ff-44b8-4a6f-804b-712a34ff43f9.PNG">
 <img width="868" alt="app 3" src="https://user-images.githubusercontent.com/62621380/230485455-74b7bc80-dd30-48cb-99b7-a90993a0396f.PNG">
 
+
+<h4>Searching result in the web app</h4>
+
+<img width="948" alt="Trying model 1" src="https://user-images.githubusercontent.com/62621380/230765733-d62d0690-292a-4576-b0a7-6da68802eb02.PNG">
+<img width="869" alt="model classfication result 1" src="https://user-images.githubusercontent.com/62621380/230765741-e3a79b91-a2b2-4686-846b-11e65e255c35.PNG">
+<img width="859" alt="model classfication result 2" src="https://user-images.githubusercontent.com/62621380/230765745-34da7620-dbf3-4a17-b5e9-d7beac047173.PNG">
+<img width="856" alt="model classfication result 3" src="https://user-images.githubusercontent.com/62621380/230765750-1b91eeae-302c-4e0a-bcaa-9a0fb4d301db.PNG">
+
+
